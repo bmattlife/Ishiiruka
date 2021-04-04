@@ -58,7 +58,7 @@ class SlippiPremadeText
 
 	    {CHAT_MSG_R_PAD_UP, "oof"},
 	    {CHAT_MSG_R_PAD_LEFT, "my b"},
-	    {CHAT_MSG_R_PAD_RIGHT, "test"},
+	    {CHAT_MSG_R_PAD_RIGHT, "lol"},
 	    {CHAT_MSG_R_PAD_DOWN, "wow"},
 
 	    {CHAT_MSG_D_PAD_UP, "okay"},
